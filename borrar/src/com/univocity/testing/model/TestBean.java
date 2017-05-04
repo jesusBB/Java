@@ -39,7 +39,5 @@ public class TestBean {
 		return this.amount + " - " + this.quantity + " - "  +  this.pending + " - " + this.comments  + "\n"; 
 	}
 	
-	//
-	
 	
 }
